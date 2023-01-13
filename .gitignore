@@ -1,5 +1,5 @@
 symbols_and_footprints/
 rp2040_keyboard-backups/
-manufacturing/
+v0.1/manufacturing/
 *.kicad_prl
 *.xml
