@@ -3,6 +3,6 @@ rp2040_keyboard-backups/
 v0.1/manufacturing/
 *.kicad_prl
 *.xml
-fp*
+*/fp*
 sym-lib-table
 *-backups/
