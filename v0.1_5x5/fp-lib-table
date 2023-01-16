@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Alps_Matias")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Alps_Matias.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "3dmodels")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/Keebio-Parts.pretty-master/3dmodels")(options "")(descr ""))
+  (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/Button_Switch_Keyboard.pretty")(options "")(descr ""))
+)

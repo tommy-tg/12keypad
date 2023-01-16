@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "/home/tommaso/Projects/RP2040_macropad/symbols_and_footprints/keebio-components-master/keebio.lib")(options "")(descr ""))
+)
