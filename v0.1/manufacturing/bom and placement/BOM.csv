@@ -11,6 +11,6 @@
 "R7, ","1","1k","R","Resistor_SMD:R_0402_1005Metric","Resistor","","C11702"
 "SW13, ","1","SW_SPDT","SW_SPDT","Button_Switch_SMD:SW_SPDT_PCM12","Switch, single pole double throw","","C221841"
 "U1, ","1","RP2040","RP2040","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm","","","C2040"
-"U2, ","1","NCP1117-3.3_SOT223","NCP1117-3.3_SOT223","Package_TO_SOT_SMD:SOT-223-3_TabPin2","1A Low drop-out regulator, Fixed Output 3.3V, SOT-223","","C17314"
+"U2, ","1","NCP1117-3.3_SOT223","NCP1117-3.3_SOT223","Package_TO_SOT_SMD:SOT-223-3_TabPin2","1A Low drop-out regulator, Fixed Output 3.3V, SOT-223","","C26537"
 "U3, ","1","W25Q128JVS","W25Q128JVS","Package_SO:SOIC-8_5.23x5.23mm_P1.27mm","128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8","","C97521"
 "Y1, ","1","12MHz","Crystal_GND24","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","Four pin crystal, GND on pins 2 and 4","","C50430"
